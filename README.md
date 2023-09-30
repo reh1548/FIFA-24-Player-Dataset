@@ -35,6 +35,6 @@ You can use this dataset for various data science and data analytics tasks, incl
 
 **Acknowledgments**
 
-The dataset was obtained from FIFA Index, and the data extraction code is provided for reference.
+The dataset was obtained from <a href="https://www.fifaindex.com/players/">FIFA Index</a>, and the data extraction code is provided for reference.
 
 **Feel free to explore and analyze this dataset for your data science and AI projects. If you have any questions or need further assistance, don't hesitate to reach out. Enjoy working with FIFA 24 player data!**
