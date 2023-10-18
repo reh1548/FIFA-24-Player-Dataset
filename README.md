@@ -6,6 +6,9 @@
 
 This dataset contains detailed information about FIFA 24 players, including their personal details, club affiliations, and various attributes that reflect their in-game skills and abilities.
 
+**Dataset Link**
+Kaggle: https://www.kaggle.com/datasets/rehandl23/fifa-24-player-stats-dataset
+
 **Sample of the Dataset**
 
 Below is a sample of the dataset with some player entries:
